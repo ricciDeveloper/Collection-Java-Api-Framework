@@ -1,19 +1,19 @@
 
-class Livro implements Comparable<Livro> {
+class Livroo implements Comparable<Livroo> {
 
     private String titulo;
     private String autor;
     private int ano;
 
     //Construtor
-    public Livro (String ti, String au, int an){
+    public Livroo (String ti, String au, int an){
         this.titulo = ti;
         this.autor = au;
         this.ano = an;
 
     }
     //usado para ordenar os livros por ano
-    public int compareTo(Livro l) {
+    public int compareTo(Livroo l) {
 		return titulo.compareTo(l.titulo);
 	}
 

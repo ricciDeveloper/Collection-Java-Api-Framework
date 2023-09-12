@@ -3,9 +3,9 @@
 
 import java.util.Comparator;
 
-class CompararAno implements Comparator<Livro>{
+class CompararAno implements Comparator<Livroo>{
         @Override
-        public int compare(Livro l1, Livro l2){
+        public int compare(Livroo l1, Livroo l2){
             return Integer.compare(l1.getAno(), l2.getAno());
 
             
