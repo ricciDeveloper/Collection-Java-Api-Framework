@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ListInterface/Carrinho de Compras Exercicio/Carrinho de Compras Exercicio.iml" filepath="$PROJECT_DIR$/ListInterface/Carrinho de Compras Exercicio/Carrinho de Compras Exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Collection-Java-Api-Framework.iml" filepath="$PROJECT_DIR$/.idea/Collection-Java-Api-Framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ComparableXComparator/ComparableXComparator.iml" filepath="$PROJECT_DIR$/ComparableXComparator/ComparableXComparator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionsSet/ConjuntoPalavrasUnicasExercicio/ConjuntoPalavrasUnicasExercicio.iml" filepath="$PROJECT_DIR$/CollectionsSet/ConjuntoPalavrasUnicasExercicio/ConjuntoPalavrasUnicasExercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionsSet/ExercicioPesquisaSet/ExercicioPesquisaSet.iml" filepath="$PROJECT_DIR$/CollectionsSet/ExercicioPesquisaSet/ExercicioPesquisaSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GenericType/GenericType.iml" filepath="$PROJECT_DIR$/GenericType/GenericType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListInterface/Operacoes Basicas List/Operacoes Basicas List.iml" filepath="$PROJECT_DIR$/ListInterface/Operacoes Basicas List/Operacoes Basicas List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionsSet/OperacoesBasicasSet/OperacoesBasicasSet.iml" filepath="$PROJECT_DIR$/CollectionsSet/OperacoesBasicasSet/OperacoesBasicasSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrdenacaoList/OrdenacaoList.iml" filepath="$PROJECT_DIR$/OrdenacaoList/OrdenacaoList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OrdenacaoListExercicio/OrdenacaoListExercicio.iml" filepath="$PROJECT_DIR$/OrdenacaoListExercicio/OrdenacaoListExercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PesquisaEmList/PesquisaEmList.iml" filepath="$PROJECT_DIR$/PesquisaEmList/PesquisaEmList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionsSet/PesquisaSet/PesquisaSet.iml" filepath="$PROJECT_DIR$/CollectionsSet/PesquisaSet/PesquisaSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SomaNumerosExercicioLIST/SomaNumerosExercicioLIST.iml" filepath="$PROJECT_DIR$/SomaNumerosExercicioLIST/SomaNumerosExercicioLIST.iml" />
+    </modules>
+  </component>
+</project>
